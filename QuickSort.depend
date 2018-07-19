@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441723898 source:c:\users\public\documents\quicksort\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+
